@@ -1,0 +1,4 @@
+interface:
+  display_name: "AccelForge"
+  short_description: "Work on AccelForge specs, models, and tests"
+  default_prompt: "Use $accelforge to update an AccelForge YAML spec, model workflow, or repo change."
